@@ -1,2 +1,11 @@
 # bot
-Bot de sistem Ticket
+- Bot de sistem Ticket
+
+# Host = Startup:
+- Main file: src/index.js
+
+# version
+- Nodejs: 20
+
+# Commands
+- !panel

@@ -9,3 +9,6 @@
 
 # Commands
 - !panel
+
+# importante
+- quitar el (.)env poner .env para que funcione el bot
